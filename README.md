@@ -293,4 +293,6 @@
 
 
 50.MENJALANKAN PROSES DENGAN PRIORITAS CPU YANG TELAH DISESUAIKAN
+
+
 ![Screenshot 2024-08-30 092502](https://github.com/user-attachments/assets/332d6011-347a-427c-986c-3af326e79f71)
